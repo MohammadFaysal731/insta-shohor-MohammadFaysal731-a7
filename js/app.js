@@ -50,6 +50,7 @@ const switchTab = (id) => {
 
     displayReportedPosts();
   }
+
 };
 
 const createPost = (post) => {
